@@ -1,0 +1,14 @@
+# Only the public publishing allowlist belongs in Git history.
+*
+!.gitattributes
+!.gitignore
+!README.md
+!THIRD_PARTY_NOTICES.txt
+!classes.json
+!config.json
+!preprocessor_config.json
+!HF_SHA256SUMS
+!SOURCE_SNAPSHOT.json
+!RELEASE_SHA256SUMS
+!RELEASE_NOTES.md
+!SHA256SUMS

@@ -1,0 +1,64 @@
+{
+  "source_repository": "https://huggingface.co/warden123/BirdTrace-FastViT-MA36-10K",
+  "source_commit": "ceadaa8749f08c2938117271e5535f6bed7fdc90",
+  "source_snapshot_url": "https://huggingface.co/warden123/BirdTrace-FastViT-MA36-10K/tree/ceadaa8749f08c2938117271e5535f6bed7fdc90",
+  "release_tag": "e15-ceadaa8749f0",
+  "files": [
+    {
+      "rfilename": ".gitattributes",
+      "blobId": "a6344aac8c09253b3b630fb776ae94478aa0275b",
+      "size": 1519
+    },
+    {
+      "rfilename": "README.md",
+      "blobId": "7ca7b4ee0fa82a8187068037d3d265933c0adc41",
+      "size": 8272
+    },
+    {
+      "rfilename": "SHA256SUMS",
+      "blobId": "8c3bb764ebe64ec91b5bd25e4e1558d4a9de8f6a",
+      "size": 575
+    },
+    {
+      "rfilename": "THIRD_PARTY_NOTICES.txt",
+      "blobId": "a03a75652ca264d0c88741e0f5511536811ea8ab",
+      "size": 40094
+    },
+    {
+      "rfilename": "classes.json",
+      "blobId": "88dd159e93f8701859cc3b87f82930359d1da57b",
+      "size": 1000770
+    },
+    {
+      "rfilename": "config.json",
+      "blobId": "088f9a992add193fd37b271544c02642b61f19ae",
+      "size": 363398
+    },
+    {
+      "rfilename": "model.onnx",
+      "blobId": "35192a24fb162d6d1aa45b48b52fcb9782416833",
+      "size": 222385590,
+      "lfs": {
+        "sha256": "0f2c02591ac1e85146b8964d33a174f29ecfb52334bf42e3e3bcf91743a46e31",
+        "size": 222385590,
+        "pointerSize": 134
+      }
+    },
+    {
+      "rfilename": "model.safetensors",
+      "blobId": "f3e58310468f6d5809cab60d48f31f59f277b2fa",
+      "size": 222963024,
+      "lfs": {
+        "sha256": "81d698a8457a9c40d67e6d20d18ebe24f9d164b7083717b9f18a08a99f9f0ca6",
+        "size": 222963024,
+        "pointerSize": 134
+      }
+    },
+    {
+      "rfilename": "preprocessor_config.json",
+      "blobId": "8a7095e0499dbaa9e718a8544de3b063856fd689",
+      "size": 906
+    }
+  ],
+  "scope": "Inference weights and necessary metadata only; training code is not included."
+}
